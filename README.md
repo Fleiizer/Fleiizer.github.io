@@ -1,2 +1,2 @@
-# Fleiizer.github.io
+# Fleizer
 My first public site
